@@ -13,3 +13,8 @@
 ## 1.0.6
 
 * Updated docs and comments
+
+
+## 1.0.7
+
+* Updated docs and comments
