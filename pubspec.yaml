@@ -1,0 +1,18 @@
+name: ticket_widget_plus
+description: A Flutter package for creating customizable ticket-style widgets — ideal for movie tickets, boarding passes, vouchers, and more.
+version: 1.0.7
+homepage: https://github.com/linh-chau/ticket_widget_plus
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
